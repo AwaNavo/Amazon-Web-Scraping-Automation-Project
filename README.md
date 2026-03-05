@@ -1,4 +1,4 @@
-# Amazon-Web-Scraping-Automation-Project
+# Amazon-Web Scraping Automation Project
 
 ![amazon logo](https://github.com/user-attachments/assets/760a4d2e-3f06-4ffb-b6a2-6633101bd65f)
 
