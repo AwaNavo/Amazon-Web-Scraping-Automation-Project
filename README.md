@@ -1,2 +1,11 @@
 # Amazon-Web-Scraping-Automation-Project
-This project demonstrates how to scrape product information from the Amazon website using Python and BeautifulSoup.
+
+![amazon logo](https://github.com/user-attachments/assets/760a4d2e-3f06-4ffb-b6a2-6633101bd65f)
+
+
+This project focuses on automating the extraction of product data from Amazon using Python. The goal was to practice web scraping and build a reusable script that can collect product information efficiently.
+
+#### Tools & Libraries
+  - Python (Pandas Library)
+  - BeautifulSoup
+  - Requests
